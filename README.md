@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Este es un `laboratorio práctico` del modulo de CSS de ADA SCHOOL.
 
 ## Lo que debes lograr
@@ -48,3 +49,6 @@ También puedes utilizar Replit si te es mas cómodo y fácil de usar, lo import
 
 4. Avanzado: cuando estes listo con los resultados, puedes subir tu trabajo a tu repositorio personal de GitHub y compartir el link en el canal de Slack para que todos podamos verlo 🚀.
 
+=======
+# CSS-lab
+>>>>>>> 793fa8f763362b0f24aa876b5976176ac207d9f7
